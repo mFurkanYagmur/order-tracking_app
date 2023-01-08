@@ -1,0 +1,11 @@
+{
+  "app_name": "Order Tracker",
+  "login": "Giriş Yap",
+  "email": "Email",
+  "password": "Password",
+  "forgot_password": "Şifremi unuttum",
+  "not_found": "Aradığınızı bulamadık!",
+  "email_bad_format": "Email düzgün formatta değil",
+  "password_short_wrong": "Şifreniz 6 karakterden küçük olamaz"
+
+}

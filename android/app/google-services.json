@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "439051707731",
+    "project_id": "order-tracking-14c77",
+    "storage_bucket": "order-tracking-14c77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439051707731:android:e526437d140da5cb222da6",
+        "android_client_info": {
+          "package_name": "com.ygg.order_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439051707731-kb2dre57vrqfmic7m1a13bqp6p4k4jaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWtbfKdHtFOb6vE9p09IMfH0X5r8wKMsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439051707731-kb2dre57vrqfmic7m1a13bqp6p4k4jaj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439051707731-1ger8vgpbacmjoid6da7ee89gtnqe6p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ygg.ordertracking.orderTrackingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
